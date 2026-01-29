@@ -1,0 +1,766 @@
+,BRAND_NAME,MONTH,STATE_ABBR,TRANS_COUNT,SPEND_AMOUNT,INDUSTRY_NAME,SUBINDUSTRY_NAME
+0,AMAZON FRESH,2019-02,VA,4526.610000000001,241115.4,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+1,UBEREATS,2019-01,WI,23891.18,444405.9,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+2,AMAZON FRESH,2019-03,NH,125.84999999999998,6742.75,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+3,DOORDASH,2019-02,OK,22620.120000000003,715355.8400000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+4,UBEREATS,2019-02,UT,15061.1,266656.04,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+5,GRUBHUB.COM,2019-01,LA,1839.24,56086.55,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+6,AMAZON FRESH,2019-03,CT,841.7499999999999,47029.56999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+7,UBEREATS,2019-01,IL,56469.49,1066714.45,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+8,DOORDASH,2019-03,AZ,58068.06999999999,1846103.2,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+9,GRUBHUB.COM,2019-03,AZ,18858.26,609070.04,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+10,GRUBHUB.COM,2019-01,NC,21013.81,638319.9400000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+11,UBEREATS,2019-03,DC,31789.3,686842.98,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+12,DOORDASH,2019-03,HI,5121.59,165372.50999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+13,GRUBHUB.COM,2019-02,AZ,16617.66,538053.0299999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+14,UBEREATS,2019-03,LA,9367.920000000002,199855.88,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+15,DOORDASH,2019-02,CO,55827.72,1846910.3,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+16,UBEREATS,2019-01,UT,15812.130000000005,280182.88,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+17,INSTACART,2019-02,MT,861.41,77982.78,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+18,INSTACART,2019-01,HI,897.0000000000001,63782.08,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+19,DOORDASH,2019-01,NH,3283.03,105763.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+20,UBEREATS,2019-03,KS,8285.45,171711.72999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+21,AMAZON FRESH,2019-02,MI,872.3300000000002,40047.600000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+22,AMAZON FRESH,2019-02,NE,319.76,21220.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+23,AMAZON FRESH,2019-01,KS,488.4799999999999,31888.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+24,INSTACART,2019-01,KS,1674.46,136011.48,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+25,GRUBHUB.COM,2019-01,CT,18529.06,589924.86,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+26,INSTACART,2019-02,NY,19299.4,1583819.35,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+27,GRUBHUB.COM,2019-01,IN,3872.41,119233.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+28,GRUBHUB.COM,2019-02,PA,92624.47000000002,2779045.39,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+29,UBEREATS,2019-02,ID,12073.63,222030.46,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+30,UBEREATS,2019-03,AZ,58298.55,1183868.99,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+31,INSTACART,2019-03,MN,17886.96,1518370.5900000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+32,DOORDASH,2019-03,VT,1295.6899999999996,43061.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+33,GRUBHUB.COM,2019-03,MO,4666.539999999999,146772.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+34,AMAZON FRESH,2019-02,AK,59.58000000000001,2197.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+35,UBEREATS,2019-03,RI,2614.74,51927.24,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+36,INSTACART,2019-02,MS,965.91,82418.76999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+37,DOORDASH,2019-03,FL,106814.34000000004,3035858.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+38,UBEREATS,2019-02,NY,161268.68000000002,3079007.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+39,AMAZON FRESH,2019-02,TN,2373.94,116939.73,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+40,GRUBHUB.COM,2019-02,WY,738.5899999999999,26108.319999999992,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+41,UBEREATS,2019-02,MS,7072.560000000001,129019.99000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+42,INSTACART,2019-01,NJ,8030.06,755586.5599999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+43,DOORDASH,2019-03,SD,1885.7499999999995,59126.000000000015,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+44,UBEREATS,2019-02,NH,3185.8900000000003,59997.03,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+45,DOORDASH,2019-03,IN,13232.16,427011.04999999993,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+46,INSTACART,2019-03,AK,834.6800000000002,77463.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+47,UBEREATS,2019-01,NC,48312.25,923307.66,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+48,DOORDASH,2019-02,DE,5449.719999999999,166318.37,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+49,GRUBHUB.COM,2019-03,NH,1707.0300000000002,56656.26,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+50,AMAZON FRESH,2019-03,SC,766.9100000000001,40763.06000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+51,DOORDASH,2019-02,CT,15965.609999999995,492944.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+52,GRUBHUB.COM,2019-02,NH,1473.8599999999997,46117.54000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+53,GRUBHUB.COM,2019-01,MA,19361.81,612940.0,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+54,AMAZON FRESH,2019-01,ID,442.08,22422.240000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+55,AMAZON FRESH,2019-03,UT,519.1400000000001,28174.979999999992,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+56,INSTACART,2019-01,WY,320.94000000000005,24253.270000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+57,GRUBHUB.COM,2019-03,PA,101734.47999999998,3085952.6700000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+58,UBEREATS,2019-03,VA,78107.50000000001,1608459.85,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+59,GRUBHUB.COM,2019-01,WY,746.6100000000001,25502.410000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+60,AMAZON FRESH,2019-01,AR,334.86000000000007,15857.079999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+61,INSTACART,2019-02,WV,484.39,39889.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+62,AMAZON FRESH,2019-03,CA,39732.28,2039144.5300000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+63,INSTACART,2019-03,DC,3589.5599999999995,265977.01000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+64,AMAZON FRESH,2019-02,IN,351.6400000000001,17879.420000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+65,DOORDASH,2019-01,ND,938.82,29885.050000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+66,DOORDASH,2019-01,KS,7613.63,234950.55,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+67,DOORDASH,2019-03,IL,39399.99,1195898.86,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+68,UBEREATS,2019-02,VA,76961.35,1407426.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+69,AMAZON FRESH,2019-03,MS,254.47,13236.390000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+70,AMAZON FRESH,2019-01,OR,2303.97,128063.4,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+71,UBEREATS,2019-01,KS,8695.19,169536.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+72,INSTACART,2019-02,CA,83358.85,6959913.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+73,INSTACART,2019-01,AZ,8593.27,693649.25,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+74,GRUBHUB.COM,2019-01,OK,4696.6,153401.74,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+75,UBEREATS,2019-02,CO,47875.95,836345.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+76,AMAZON FRESH,2019-01,KY,352.7800000000001,23654.93,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+77,UBEREATS,2019-02,OK,9817.839999999998,175434.05000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+78,AMAZON FRESH,2019-01,ND,57.77,3758.22,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+79,GRUBHUB.COM,2019-03,NV,12827.04,423187.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+80,AMAZON FRESH,2019-02,HI,392.33,17301.93,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+81,DOORDASH,2019-01,WA,56171.47000000001,1864160.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+82,GRUBHUB.COM,2019-03,MA,19617.76,638628.9199999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+83,GRUBHUB.COM,2019-03,MN,7631.809999999999,221500.87,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+84,DOORDASH,2019-03,CT,20703.39,635731.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+85,INSTACART,2019-02,PA,17369.98,1549600.66,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+86,DOORDASH,2019-03,ME,2064.04,69857.88000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+87,AMAZON FRESH,2019-03,GA,4817.539999999999,246681.61,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+88,AMAZON FRESH,2019-03,TN,2543.28,136583.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+89,AMAZON FRESH,2019-02,KY,234.34,15418.379999999996,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+90,GRUBHUB.COM,2019-03,FL,27149.340000000004,800270.7499999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+91,UBEREATS,2019-03,MD,78648.28999999998,1675226.2499999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+92,GRUBHUB.COM,2019-01,AZ,16117.090000000002,539919.03,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+93,GRUBHUB.COM,2019-03,TN,11938.380000000005,363098.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+94,DOORDASH,2019-01,CO,53125.34999999999,1777270.5000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+95,AMAZON FRESH,2019-01,VT,288.36,19202.49,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+96,AMAZON FRESH,2019-02,DE,359.93000000000006,23136.959999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+97,INSTACART,2019-03,NE,1657.73,127770.25,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+98,AMAZON FRESH,2019-01,CA,38294.87,1913193.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+99,AMAZON FRESH,2019-01,IN,580.5100000000002,32338.43,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+100,GRUBHUB.COM,2019-01,DC,5987.810000000001,193940.51,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+101,GRUBHUB.COM,2019-01,TX,42569.560000000005,1306611.2599999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+102,DOORDASH,2019-01,ME,1480.7,52613.3,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+103,DOORDASH,2019-03,VA,69064.96,2084414.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+104,DOORDASH,2019-01,WV,1515.1799999999998,53454.810000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+105,INSTACART,2019-01,RI,393.86,31078.329999999994,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+106,AMAZON FRESH,2019-01,OK,362.28,18540.96,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+107,UBEREATS,2019-01,VT,1182.3900000000003,28897.58,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+108,INSTACART,2019-02,IL,8697.929999999998,717754.1499999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+109,AMAZON FRESH,2019-03,FL,5718.67,298242.07,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+110,UBEREATS,2019-03,FL,353683.39,7505151.1099999985,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+111,AMAZON FRESH,2019-01,CO,5181.379999999999,292897.41000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+112,INSTACART,2019-01,TX,42905.92,3727192.210000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+113,INSTACART,2019-01,NV,4137.78,331211.3499999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+114,DOORDASH,2019-01,MN,42391.62000000001,1368081.99,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+115,AMAZON FRESH,2019-02,ND,56.190000000000005,2785.59,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+116,GRUBHUB.COM,2019-03,LA,2448.8,73030.42000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+117,INSTACART,2019-03,KY,1528.57,127731.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+118,UBEREATS,2019-02,HI,6676.47,129313.53000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+119,DOORDASH,2019-03,ID,10908.850000000002,348286.73999999993,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+120,UBEREATS,2019-01,SC,21886.31,439402.69000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+121,GRUBHUB.COM,2019-02,ID,2195.4400000000005,63746.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+122,DOORDASH,2019-02,VA,49472.87999999999,1497827.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+123,INSTACART,2019-01,UT,3881.79,344689.6,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+124,DOORDASH,2019-01,CA,465478.4399999998,15925710.16,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+125,DOORDASH,2019-02,AR,4622.19,151305.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+126,INSTACART,2019-03,MI,2627.1900000000005,212782.68,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+127,INSTACART,2019-03,NM,1392.6,105700.04999999996,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+128,GRUBHUB.COM,2019-03,IN,4805.18,146959.64999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+129,GRUBHUB.COM,2019-02,AK,593.41,19417.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+130,INSTACART,2019-02,KS,1501.64,133603.98000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+131,DOORDASH,2019-02,WY,1413.4599999999996,44343.27,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+132,UBEREATS,2019-02,IN,10638.479999999998,193745.89,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+133,INSTACART,2019-02,WI,3236.65,265830.61,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+134,INSTACART,2019-01,PA,17228.16,1583010.6799999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+135,AMAZON FRESH,2019-03,MD,4830.15,252036.93,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+136,GRUBHUB.COM,2019-01,MD,31068.91,971939.47,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+137,GRUBHUB.COM,2019-02,LA,2065.77,65547.73,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+138,DOORDASH,2019-03,SC,22643.97,667056.3600000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+139,INSTACART,2019-01,WA,13338.36,1114946.4899999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+140,UBEREATS,2019-01,NV,31876.82,635348.73,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+141,DOORDASH,2019-03,NC,68369.17,2030401.58,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+142,DOORDASH,2019-03,NM,8559.51,267908.57000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+143,INSTACART,2019-02,DC,3341.0600000000004,247630.61,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+144,UBEREATS,2019-03,DE,3945.830000000001,82639.77999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+145,DOORDASH,2019-02,DC,8562.340000000002,259533.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+146,DOORDASH,2019-01,OR,16490.7,514838.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+147,INSTACART,2019-01,MO,3365.84,253192.64,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+148,DOORDASH,2019-03,MD,64622.12,1965822.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+149,INSTACART,2019-01,VT,678.87,72593.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+150,GRUBHUB.COM,2019-02,UT,7530.06,254413.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+151,DOORDASH,2019-02,ID,8900.48,285873.51,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+152,INSTACART,2019-02,SC,5849.25,500643.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+153,DOORDASH,2019-02,KS,9095.31,265813.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+154,UBEREATS,2019-02,WY,1309.1699999999996,24405.770000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+155,INSTACART,2019-01,CT,3988.120000000001,350327.3799999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+156,AMAZON FRESH,2019-01,LA,564.83,24466.08,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+157,GRUBHUB.COM,2019-03,NJ,49382.82000000001,1475076.24,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+158,AMAZON FRESH,2019-01,DC,2593.3500000000004,137367.08,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+159,INSTACART,2019-03,KS,1677.59,143383.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+160,UBEREATS,2019-02,NC,49584.06999999999,910014.3000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+161,INSTACART,2019-03,PA,19762.28,1811603.25,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+162,INSTACART,2019-03,UT,3796.99,339394.1000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+163,GRUBHUB.COM,2019-01,IL,31821.4,1119803.97,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+164,DOORDASH,2019-03,PA,77405.69000000002,2360810.1800000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+165,INSTACART,2019-02,GA,21218.660000000003,1799280.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+166,AMAZON FRESH,2019-03,IA,222.45,9199.4,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+167,DOORDASH,2019-01,NV,17771.61,566333.8300000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+168,INSTACART,2019-01,ID,1325.15,123870.01,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+169,AMAZON FRESH,2019-02,NM,277.72,15121.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+170,UBEREATS,2019-02,AZ,58615.95,1085251.36,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+171,DOORDASH,2019-02,NV,19980.370000000003,624390.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+172,DOORDASH,2019-03,OK,27159.2,853786.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+173,INSTACART,2019-02,MD,10419.48,863171.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+174,GRUBHUB.COM,2019-03,NY,109140.08000000002,3209234.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+175,AMAZON FRESH,2019-02,GA,4455.139999999999,218672.52,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+176,GRUBHUB.COM,2019-02,MT,1087.5600000000002,35821.97,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+177,DOORDASH,2019-01,HI,3886.8199999999993,124887.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+178,GRUBHUB.COM,2019-01,OH,7926.870000000001,230411.73,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+179,GRUBHUB.COM,2019-03,VA,34855.82,1069931.1899999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+180,DOORDASH,2019-02,NM,6658.700000000001,211656.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+181,GRUBHUB.COM,2019-01,NV,11021.92,371357.75,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+182,INSTACART,2019-02,OH,3909.67,317737.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+183,GRUBHUB.COM,2019-02,OK,5155.600000000002,160198.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+184,UBEREATS,2019-02,CA,394933.15,7662336.600000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+185,UBEREATS,2019-02,MI,13112.230000000003,241841.88000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+186,UBEREATS,2019-03,WV,2976.51,58833.36,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+187,DOORDASH,2019-03,MN,54438.55,1746619.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+188,AMAZON FRESH,2019-02,NH,170.06,8942.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+189,DOORDASH,2019-02,AL,11478.24,328222.82000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+190,INSTACART,2019-02,WA,11700.659999999998,996283.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+191,INSTACART,2019-02,AL,4859.57,427263.0899999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+192,UBEREATS,2019-01,LA,9929.820000000002,200164.15000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+193,UBEREATS,2019-03,TN,55076.56999999999,1117102.4200000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+194,AMAZON FRESH,2019-03,KS,288.53000000000003,21400.39,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+195,INSTACART,2019-03,WY,305.25,24161.93,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+196,AMAZON FRESH,2019-03,OK,334.38,18453.52,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+197,GRUBHUB.COM,2019-03,SC,6505.559999999999,192247.28,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+198,UBEREATS,2019-01,WA,121023.87000000004,2575913.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+199,UBEREATS,2019-01,WV,2589.439999999999,52036.15000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+200,UBEREATS,2019-03,CT,61601.44,1310682.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+201,AMAZON FRESH,2019-01,IA,201.01,10320.66,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+202,UBEREATS,2019-02,PA,102535.33999999998,2019360.27,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+203,UBEREATS,2019-02,NV,33464.64,633660.8800000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+204,DOORDASH,2019-02,SC,16629.919999999995,487127.67999999993,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+205,AMAZON FRESH,2019-03,WV,169.62999999999997,8235.81,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+206,INSTACART,2019-03,NH,671.1200000000002,64834.66,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+207,UBEREATS,2019-03,HI,6495.72,143535.72000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+208,INSTACART,2019-01,FL,41873.41000000002,3629508.9700000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+209,GRUBHUB.COM,2019-03,MT,1286.87,42867.58000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+210,INSTACART,2019-01,MA,5417.069999999999,456504.2799999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+211,INSTACART,2019-01,NM,1208.99,96544.87,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+212,GRUBHUB.COM,2019-01,AR,1510.55,49175.84000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+213,INSTACART,2019-03,MO,3433.5899999999992,286296.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+214,DOORDASH,2019-02,MN,39916.45,1294888.5499999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+215,DOORDASH,2019-02,NC,52265.33999999999,1534762.06,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+216,UBEREATS,2019-01,PA,100912.94000000002,2048792.54,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+217,UBEREATS,2019-01,NM,8150.7,152922.97000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+218,AMAZON FRESH,2019-02,SD,58.360000000000014,2854.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+219,INSTACART,2019-01,ME,493.73,47392.25,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+220,INSTACART,2019-02,AZ,8473.910000000002,687298.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+221,INSTACART,2019-03,ME,596.1899999999999,81509.84,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+222,INSTACART,2019-01,SD,429.36,35994.340000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+223,UBEREATS,2019-02,IA,9795.149999999998,174382.13,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+224,AMAZON FRESH,2019-03,OH,878.2499999999999,49052.88,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+225,INSTACART,2019-03,TN,11227.64,1045377.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+226,AMAZON FRESH,2019-02,LA,348.42,14174.52,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+227,DOORDASH,2019-02,AK,1755.7,51655.55999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+228,GRUBHUB.COM,2019-03,CA,128167.13000000003,4485893.02,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+229,AMAZON FRESH,2019-02,WV,170.63,12520.88,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+230,GRUBHUB.COM,2019-02,IL,31231.739999999994,1043746.2799999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+231,INSTACART,2019-01,AK,696.0699999999999,63672.04999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+232,UBEREATS,2019-03,OH,18098.27,387490.24,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+233,GRUBHUB.COM,2019-01,KS,2884.5200000000004,91078.12999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+234,DOORDASH,2019-02,NY,51028.33,1533485.6399999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+235,DOORDASH,2019-03,NY,64060.2,1960093.75,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+236,GRUBHUB.COM,2019-02,OH,7058.88,208572.92,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+237,INSTACART,2019-02,NE,1649.2000000000005,118691.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+238,UBEREATS,2019-03,GA,154026.69999999995,3155622.1400000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+239,GRUBHUB.COM,2019-01,MO,4039.64,128172.27999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+240,GRUBHUB.COM,2019-02,TN,10999.669999999998,349459.70000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+241,GRUBHUB.COM,2019-01,UT,7975.44,268719.74999999994,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+242,GRUBHUB.COM,2019-02,IA,7525.489999999999,232738.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+243,AMAZON FRESH,2019-01,IL,3911.339999999999,189682.0,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+244,GRUBHUB.COM,2019-03,NC,24880.120000000003,752185.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+245,GRUBHUB.COM,2019-01,ID,1777.39,57092.63000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+246,DOORDASH,2019-03,MT,3896.559999999999,129000.94,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+247,INSTACART,2019-01,OK,1400.0500000000002,116844.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+248,GRUBHUB.COM,2019-02,MA,18617.13,601913.8599999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+249,UBEREATS,2019-01,MT,11472.03,204449.54000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+250,INSTACART,2019-02,LA,1580.9900000000002,162522.94,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+251,INSTACART,2019-02,UT,3717.640000000001,326553.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+252,AMAZON FRESH,2019-01,OH,1311.6,76990.81999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+253,GRUBHUB.COM,2019-02,MS,1621.67,50073.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+254,AMAZON FRESH,2019-02,CT,841.1599999999999,41150.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+255,GRUBHUB.COM,2019-01,WA,18549.93,638414.6699999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+256,DOORDASH,2019-03,MS,6584.110000000001,189008.08,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+257,AMAZON FRESH,2019-02,MN,2551.66,145625.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+258,AMAZON FRESH,2019-01,WA,14725.05,795362.4500000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+259,DOORDASH,2019-03,AK,2907.7900000000004,90994.26,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+260,AMAZON FRESH,2019-03,VA,4862.89,270645.62999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+261,UBEREATS,2019-03,OR,44043.25000000001,870028.0699999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+262,UBEREATS,2019-03,WI,24876.74,490716.07,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+263,UBEREATS,2019-03,WY,1258.15,27354.80999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+264,DOORDASH,2019-02,PA,57924.94,1740418.2200000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+265,AMAZON FRESH,2019-03,NC,2711.3400000000006,161674.13999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+266,INSTACART,2019-01,IN,3010.1600000000008,220978.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+267,GRUBHUB.COM,2019-01,NJ,44195.21,1338329.5500000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+268,DOORDASH,2019-01,MD,41060.81999999999,1232497.64,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+269,INSTACART,2019-03,LA,1586.2799999999995,165725.34999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+270,DOORDASH,2019-02,GA,50469.59999999999,1457008.58,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+271,GRUBHUB.COM,2019-03,MI,7024.189999999998,214569.68000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+272,DOORDASH,2019-01,PA,47896.14,1482685.9800000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+273,GRUBHUB.COM,2019-03,OK,6360.749999999998,200816.28,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+274,DOORDASH,2019-02,MT,2663.97,92164.77999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+275,AMAZON FRESH,2019-03,AR,409.46,19812.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+276,INSTACART,2019-03,IA,1915.6700000000003,147457.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+277,UBEREATS,2019-02,SD,1107.69,20979.01,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+278,UBEREATS,2019-02,FL,345044.1,6593315.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+279,UBEREATS,2019-03,NJ,110604.14,2365570.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+280,DOORDASH,2019-03,WA,74423.13,2461962.6200000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+281,DOORDASH,2019-03,OH,28837.61,849396.7399999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+282,AMAZON FRESH,2019-03,NE,392.96,29563.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+283,GRUBHUB.COM,2019-02,AR,1816.27,55476.19,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+284,GRUBHUB.COM,2019-03,WV,1649.5400000000006,50587.41999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+285,UBEREATS,2019-02,OR,43419.45,762552.7199999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+286,GRUBHUB.COM,2019-01,VT,1129.13,37976.01,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+287,INSTACART,2019-03,MT,1029.0,95351.03999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+288,DOORDASH,2019-03,NV,24514.099999999995,769179.2999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+289,INSTACART,2019-03,DE,1029.9899999999998,85913.49999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+290,INSTACART,2019-01,DE,907.3299999999996,79975.21999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+291,DOORDASH,2019-03,MO,14079.82,447946.5,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+292,AMAZON FRESH,2019-02,FL,5592.1500000000015,280976.29000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+293,AMAZON FRESH,2019-01,AK,33.779999999999994,1321.5000000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+294,DOORDASH,2019-01,TX,173976.50000000003,5471953.550000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+295,DOORDASH,2019-02,HI,4182.46,132273.59,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+296,DOORDASH,2019-03,AL,15944.670000000006,453893.06,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+297,AMAZON FRESH,2019-01,WI,2013.62,94472.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+298,GRUBHUB.COM,2019-03,NM,7534.5,241483.07,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+299,GRUBHUB.COM,2019-02,WI,10461.44,324891.07,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+300,UBEREATS,2019-02,RI,2731.79,55126.850000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+301,UBEREATS,2019-01,MO,10575.919999999998,208633.9,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+302,AMAZON FRESH,2019-01,NJ,5048.270000000001,262383.45,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+303,DOORDASH,2019-02,MI,9872.28,313936.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+304,GRUBHUB.COM,2019-01,AL,2984.02,89008.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+305,INSTACART,2019-01,CA,87490.56,7390245.849999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+306,UBEREATS,2019-03,SC,21757.610000000004,487467.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+307,GRUBHUB.COM,2019-01,CA,112288.96000000002,4057264.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+308,UBEREATS,2019-01,DC,28048.779999999995,602591.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+309,GRUBHUB.COM,2019-02,KS,3115.9700000000003,90193.44,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+310,DOORDASH,2019-01,AK,1018.8100000000002,31457.959999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+311,AMAZON FRESH,2019-03,MT,140.53000000000003,8131.299999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+312,INSTACART,2019-03,HI,1405.9399999999998,88446.61,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+313,GRUBHUB.COM,2019-03,VT,1049.08,37960.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+314,AMAZON FRESH,2019-02,NY,13780.91,670002.48,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+315,UBEREATS,2019-01,HI,5728.370000000001,119395.83999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+316,UBEREATS,2019-01,MD,70624.84,1446391.9399999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+317,INSTACART,2019-02,IN,2807.95,225619.63,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+318,INSTACART,2019-02,MO,3327.07,274445.22000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+319,DOORDASH,2019-01,DE,4347.259999999999,136356.81,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+320,GRUBHUB.COM,2019-03,WI,11862.580000000002,364138.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+321,AMAZON FRESH,2019-01,TX,14031.299999999996,743615.9200000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+322,INSTACART,2019-02,ME,532.1800000000001,46481.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+323,AMAZON FRESH,2019-01,GA,4779.63,234865.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+324,INSTACART,2019-01,CO,10514.87,926827.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+325,INSTACART,2019-01,NY,19735.790000000005,1732027.35,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+326,DOORDASH,2019-03,AR,5645.779999999999,183095.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+327,INSTACART,2019-03,NV,4580.38,376688.00000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+328,AMAZON FRESH,2019-02,CA,37056.62,1842029.0,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+329,AMAZON FRESH,2019-03,MI,925.4399999999998,53754.76,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+330,GRUBHUB.COM,2019-03,WA,22088.82,735773.6099999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+331,DOORDASH,2019-01,CT,13328.06,414128.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+332,GRUBHUB.COM,2019-03,GA,17870.519999999997,534594.97,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+333,GRUBHUB.COM,2019-03,TX,49966.87,1483146.9200000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+334,AMAZON FRESH,2019-01,AL,570.0600000000001,32681.76,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+335,DOORDASH,2019-03,TN,40741.98,1213424.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+336,UBEREATS,2019-01,AZ,60671.07000000001,1156327.13,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+337,UBEREATS,2019-03,ND,1979.8,41907.8,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+338,DOORDASH,2019-02,MO,10886.69,350676.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+339,DOORDASH,2019-02,WI,16139.880000000005,518430.1200000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+340,DOORDASH,2019-03,CA,585041.57,19593400.8,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+341,AMAZON FRESH,2019-03,AK,78.41000000000001,3845.47,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+342,GRUBHUB.COM,2019-03,OH,8644.999999999998,248488.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+343,GRUBHUB.COM,2019-03,WY,825.6100000000002,29990.289999999983,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+344,UBEREATS,2019-01,OK,9382.280000000002,164549.41000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+345,AMAZON FRESH,2019-03,PA,7715.489999999998,376237.27,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+346,AMAZON FRESH,2019-01,MI,947.1999999999998,52413.76,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+347,GRUBHUB.COM,2019-01,CO,35200.36,1221246.8899999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+348,DOORDASH,2019-02,OH,19333.47,581281.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+349,GRUBHUB.COM,2019-03,ID,2674.55,77559.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+350,GRUBHUB.COM,2019-03,AR,1939.38,59347.780000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+351,GRUBHUB.COM,2019-02,MI,6503.75,198584.4,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+352,INSTACART,2019-03,OH,4729.609999999999,387658.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+353,DOORDASH,2019-01,IN,9088.32,293011.69999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+354,INSTACART,2019-03,AR,1048.35,88206.42000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+355,INSTACART,2019-03,MD,12057.440000000002,1010796.8400000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+356,AMAZON FRESH,2019-01,WV,179.05999999999997,13111.38,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+357,AMAZON FRESH,2019-03,ND,54.69,4176.86,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+358,GRUBHUB.COM,2019-01,AK,708.8800000000001,23456.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+359,AMAZON FRESH,2019-01,ME,308.4899999999999,22330.320000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+360,INSTACART,2019-03,CT,4848.78,421214.06,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+361,INSTACART,2019-01,ND,844.3699999999999,77541.63,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+362,DOORDASH,2019-02,IN,9979.85,324078.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+363,GRUBHUB.COM,2019-03,UT,9284.260000000002,313959.85,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+364,UBEREATS,2019-02,NM,8281.14,149824.97000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+365,DOORDASH,2019-03,CO,66997.61,2258587.12,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+366,AMAZON FRESH,2019-02,NJ,4745.36,249727.5,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+367,AMAZON FRESH,2019-02,OR,2079.53,121123.68,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+368,UBEREATS,2019-02,SC,22696.26,438813.7500000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+369,UBEREATS,2019-03,NV,33793.250000000015,706306.3799999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+370,AMAZON FRESH,2019-03,SD,38.25,1230.29,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+371,AMAZON FRESH,2019-01,SC,746.0300000000003,36902.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+372,DOORDASH,2019-01,GA,44538.72000000001,1321482.6399999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+373,INSTACART,2019-03,NY,23163.85,1973467.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+374,INSTACART,2019-03,VT,615.2900000000001,60549.61999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+375,GRUBHUB.COM,2019-03,KY,2360.6800000000003,71966.87999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+376,DOORDASH,2019-01,NC,46278.030000000006,1386144.1799999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+377,UBEREATS,2019-03,NM,7485.8,154231.69,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+378,AMAZON FRESH,2019-02,MS,265.69,14957.700000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+379,UBEREATS,2019-02,AR,3957.429999999999,69564.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+380,AMAZON FRESH,2019-01,NH,154.51000000000002,8430.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+381,DOORDASH,2019-03,OR,24452.599999999995,758808.4199999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+382,GRUBHUB.COM,2019-01,TN,10308.97,325973.43,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+383,DOORDASH,2019-03,LA,6499.379999999998,201691.94000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+384,INSTACART,2019-03,OK,1896.23,156338.36000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+385,AMAZON FRESH,2019-02,AR,264.4,11554.97,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+386,DOORDASH,2019-02,TN,32089.349999999995,948309.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+387,INSTACART,2019-02,NC,13952.96,1158115.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+388,GRUBHUB.COM,2019-01,NH,1536.4699999999998,50229.3,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+389,AMAZON FRESH,2019-02,SC,622.84,30738.59,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+390,AMAZON FRESH,2019-03,NY,14815.559999999998,742122.4900000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+391,INSTACART,2019-01,KY,1229.63,94439.83000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+392,AMAZON FRESH,2019-03,IN,497.94,31908.189999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+393,GRUBHUB.COM,2019-02,SC,5401.330000000001,162643.75,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+394,AMAZON FRESH,2019-03,WY,93.76,4728.789999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+395,UBEREATS,2019-01,IA,9006.330000000002,162216.46000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+396,INSTACART,2019-01,WI,3422.64,289454.75999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+397,UBEREATS,2019-03,ID,11367.88,242283.79000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+398,AMAZON FRESH,2019-02,VT,308.17,20655.47,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+399,UBEREATS,2019-03,NC,49230.83,1021218.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+400,INSTACART,2019-02,SD,383.36000000000007,31136.59,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+401,DOORDASH,2019-03,UT,35320.33,1030676.44,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+402,UBEREATS,2019-02,AL,11059.84,198216.46,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+403,AMAZON FRESH,2019-03,DC,2455.7899999999995,123615.92000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+404,DOORDASH,2019-01,MI,9194.74,289463.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+405,INSTACART,2019-03,TX,47641.33,4130894.36,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+406,INSTACART,2019-03,AZ,9597.99,806968.7700000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+407,DOORDASH,2019-02,RI,1368.1699999999998,44503.990000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+408,AMAZON FRESH,2019-01,PA,6055.500000000001,313365.93000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+409,UBEREATS,2019-01,IN,10910.07,203556.66000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+410,AMAZON FRESH,2019-01,MO,374.3799999999999,19206.06,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+411,UBEREATS,2019-01,FL,321992.12,6452164.359999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+412,UBEREATS,2019-03,NE,10120.749999999998,192917.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+413,UBEREATS,2019-03,OK,9925.88,192500.12,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+414,INSTACART,2019-02,CT,3774.55,324963.11,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+415,DOORDASH,2019-03,KY,8008.62,242097.67000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+416,INSTACART,2019-02,FL,40411.89,3479487.7099999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+417,GRUBHUB.COM,2019-02,ME,1376.2900000000004,47300.28999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+418,INSTACART,2019-02,CO,9104.820000000002,828589.1599999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+419,GRUBHUB.COM,2019-01,NY,95527.66,2829319.8900000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+420,GRUBHUB.COM,2019-01,DE,4063.369999999999,115099.81,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+421,INSTACART,2019-01,SC,5764.009999999999,499630.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+422,DOORDASH,2019-01,MO,10493.49,334205.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+423,UBEREATS,2019-02,ND,2203.68,38682.96,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+424,AMAZON FRESH,2019-03,IL,3708.99,186875.63,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+425,INSTACART,2019-03,WV,613.49,45139.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+426,DOORDASH,2019-01,SC,13662.47,407089.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+427,UBEREATS,2019-01,RI,2812.67,56051.75999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+428,GRUBHUB.COM,2019-02,VA,30236.41,924766.35,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+429,INSTACART,2019-01,VA,12595.08,1128748.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+430,GRUBHUB.COM,2019-01,RI,2169.7700000000004,74337.37000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+431,DOORDASH,2019-01,ID,7997.35,257508.44999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+432,GRUBHUB.COM,2019-01,SC,5185.68,163839.71,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+433,DOORDASH,2019-01,NE,11829.06,354059.85,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+434,GRUBHUB.COM,2019-03,CO,35866.6,1246633.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+435,AMAZON FRESH,2019-01,RI,138.03,4948.530000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+436,AMAZON FRESH,2019-03,WA,14799.519999999997,802307.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+437,GRUBHUB.COM,2019-01,IA,7794.69,240742.16,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+438,UBEREATS,2019-02,KS,8339.82,151363.08999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+439,UBEREATS,2019-01,NJ,99407.95000000004,2014321.15,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+440,INSTACART,2019-01,AR,1118.14,86000.45999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+441,INSTACART,2019-03,SC,7083.159999999999,602106.66,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+442,GRUBHUB.COM,2019-02,NV,11203.12,371938.4,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+443,UBEREATS,2019-02,TX,289765.54,5192113.0,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+444,UBEREATS,2019-01,WY,1461.4700000000005,29635.320000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+445,DOORDASH,2019-02,IA,9651.53,287727.98,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+446,INSTACART,2019-02,MA,5669.339999999999,454158.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+447,INSTACART,2019-02,KY,1201.12,95754.99000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+448,DOORDASH,2019-01,WY,1319.7100000000005,40813.990000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+449,GRUBHUB.COM,2019-02,SD,432.22,12290.649999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+450,GRUBHUB.COM,2019-01,FL,23748.570000000003,723761.5499999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+451,INSTACART,2019-03,WA,14142.139999999998,1222968.2399999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+452,UBEREATS,2019-03,SD,1275.27,27477.320000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+453,DOORDASH,2019-02,LA,4602.27,140709.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+454,INSTACART,2019-03,NC,16893.600000000002,1445686.75,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+455,AMAZON FRESH,2019-03,TX,14270.890000000005,758584.4699999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+456,GRUBHUB.COM,2019-01,WI,10477.4,327903.8,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+457,INSTACART,2019-02,HI,1088.2600000000002,70527.03,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+458,AMAZON FRESH,2019-01,MT,256.97,15161.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+459,INSTACART,2019-02,ND,930.02,79894.18999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+460,AMAZON FRESH,2019-02,WI,1789.66,81717.87,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+461,AMAZON FRESH,2019-02,MO,506.02,27489.509999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+462,AMAZON FRESH,2019-01,AZ,1663.21,93975.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+463,UBEREATS,2019-01,CA,380599.95,7708867.800000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+464,AMAZON FRESH,2019-02,WY,108.03999999999998,6891.78,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+465,DOORDASH,2019-02,FL,78690.87999999999,2270322.71,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+466,GRUBHUB.COM,2019-02,MO,4019.2400000000007,120193.86999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+467,INSTACART,2019-02,AK,647.7299999999999,58619.32000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+468,DOORDASH,2019-02,UT,27725.45,823799.4500000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+469,UBEREATS,2019-01,TX,288504.4600000001,5279854.759999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+470,UBEREATS,2019-02,WA,112221.68000000002,2212339.0500000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+471,AMAZON FRESH,2019-02,IA,207.01999999999995,10401.070000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+472,AMAZON FRESH,2019-03,NM,313.29,21410.040000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+473,UBEREATS,2019-03,CA,397794.31,8383295.520000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+474,DOORDASH,2019-02,SD,1329.56,40558.39999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+475,GRUBHUB.COM,2019-02,AL,3621.61,97629.22,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+476,DOORDASH,2019-01,AL,9374.63,295305.8,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+477,GRUBHUB.COM,2019-01,HI,2103.14,79150.32999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+478,AMAZON FRESH,2019-02,NC,2882.09,150542.8,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+479,AMAZON FRESH,2019-02,UT,518.5799999999999,20779.9,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+480,DOORDASH,2019-03,KS,11795.850000000004,365788.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+481,INSTACART,2019-01,MN,16660.92,1408030.6999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+482,UBEREATS,2019-02,MN,20202.06,363256.9600000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+483,DOORDASH,2019-03,WV,3167.689999999999,97439.47000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+484,UBEREATS,2019-01,MA,31121.51,598633.94,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+485,INSTACART,2019-02,TX,40506.44000000001,3473974.87,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+486,UBEREATS,2019-02,WV,2635.4100000000003,51362.86,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+487,DOORDASH,2019-03,MI,13357.71,427525.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+488,INSTACART,2019-01,LA,1684.57,160112.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+489,INSTACART,2019-03,GA,24337.72,2063041.07,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+490,UBEREATS,2019-03,AL,11153.969999999998,229256.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+491,DOORDASH,2019-02,OR,18693.59,573005.49,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+492,GRUBHUB.COM,2019-01,PA,94393.82,2852804.78,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+493,INSTACART,2019-03,CO,10032.069999999998,912662.01,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+494,INSTACART,2019-01,OR,6040.56,530868.09,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+495,AMAZON FRESH,2019-01,MS,219.11000000000004,12120.54,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+496,UBEREATS,2019-03,IN,10709.289999999995,215891.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+497,INSTACART,2019-02,OK,1735.21,134277.12000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+498,AMAZON FRESH,2019-02,MD,4509.499999999999,220965.81999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+499,INSTACART,2019-03,ID,1666.78,153467.58999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+500,AMAZON FRESH,2019-02,OK,250.88,11426.36,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+501,UBEREATS,2019-01,OR,42437.68000000001,798354.9600000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+502,INSTACART,2019-01,WV,433.7699999999998,32679.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+503,UBEREATS,2019-01,CT,53246.68000000001,1127879.09,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+504,GRUBHUB.COM,2019-02,HI,1859.46,65445.55000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+505,GRUBHUB.COM,2019-02,FL,24244.020000000008,713158.01,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+506,DOORDASH,2019-02,VT,985.8300000000002,32572.03,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+507,INSTACART,2019-03,SD,415.2099999999999,31181.959999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+508,UBEREATS,2019-02,LA,10456.06,207250.62,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+509,AMAZON FRESH,2019-02,DC,2266.9300000000003,113199.86999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+510,INSTACART,2019-01,MT,887.5300000000001,83719.65,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+511,DOORDASH,2019-01,RI,1271.9900000000005,44367.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+512,GRUBHUB.COM,2019-01,ND,334.1,10571.26,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+513,UBEREATS,2019-01,AK,1893.99,38141.01000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+514,GRUBHUB.COM,2019-02,ND,333.36000000000007,11061.14,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+515,INSTACART,2019-01,MD,10630.330000000002,878907.9700000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+516,INSTACART,2019-03,ND,884.94,73582.02,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+517,GRUBHUB.COM,2019-02,MD,30258.220000000005,936694.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+518,UBEREATS,2019-03,AR,3787.289999999999,81847.8,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+519,INSTACART,2019-02,DE,858.58,74190.36,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+520,DOORDASH,2019-03,RI,1708.47,55726.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+521,DOORDASH,2019-01,VA,41213.53,1278508.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+522,GRUBHUB.COM,2019-02,OR,18814.78,597500.19,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+523,INSTACART,2019-01,MS,1035.43,78186.92000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+524,UBEREATS,2019-01,VA,69274.41999999997,1352756.6,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+525,INSTACART,2019-02,MI,2305.36,175031.62999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+526,AMAZON FRESH,2019-02,MA,3273.5599999999995,178992.84,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+527,GRUBHUB.COM,2019-02,CO,34557.490000000005,1185326.0,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+528,DOORDASH,2019-03,NJ,65927.09,2048129.46,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+529,GRUBHUB.COM,2019-01,VA,29795.270000000004,938513.0600000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+530,AMAZON FRESH,2019-02,IL,4112.400000000001,195284.13,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+531,AMAZON FRESH,2019-01,NM,305.16,16275.12,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+532,UBEREATS,2019-02,DC,31537.43,641475.7099999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+533,AMAZON FRESH,2019-03,ID,542.0800000000002,30101.92,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+534,GRUBHUB.COM,2019-03,MS,1763.64,53908.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+535,DOORDASH,2019-03,TX,242315.49,7491228.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+536,GRUBHUB.COM,2019-01,WV,1394.5600000000002,45182.71,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+537,GRUBHUB.COM,2019-02,NY,96726.36999999998,2859824.55,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+538,DOORDASH,2019-02,MS,5067.660000000002,146671.65000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+539,GRUBHUB.COM,2019-01,GA,15026.67,462056.4,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+540,INSTACART,2019-02,NV,3985.97,326265.29,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+541,DOORDASH,2019-02,ME,1698.2799999999995,58513.65999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+542,GRUBHUB.COM,2019-02,WV,1546.2800000000002,47937.98999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+543,DOORDASH,2019-02,WV,1758.1399999999996,55137.57000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+544,DOORDASH,2019-01,MA,13419.54,438055.28000000014,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+545,AMAZON FRESH,2019-03,CO,5371.879999999998,338280.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+546,GRUBHUB.COM,2019-02,DC,5639.389999999999,187765.43,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+547,UBEREATS,2019-03,CO,47523.66,942304.4499999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+548,AMAZON FRESH,2019-03,NV,947.18,49562.87,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+549,AMAZON FRESH,2019-03,KY,220.5,13735.120000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+550,GRUBHUB.COM,2019-02,RI,2259.92,73312.14,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+551,GRUBHUB.COM,2019-01,NE,4176.259999999999,123034.72999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+552,DOORDASH,2019-02,IL,32566.72,978183.9,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+553,INSTACART,2019-01,TN,10820.189999999997,980044.96,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+554,AMAZON FRESH,2019-01,NE,309.11,20009.51,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+555,AMAZON FRESH,2019-02,KS,284.47,19944.75,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+556,GRUBHUB.COM,2019-01,ME,1353.5600000000002,46982.490000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+557,GRUBHUB.COM,2019-03,IA,8198.400000000001,250808.55000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+558,DOORDASH,2019-01,AR,4140.63,140271.92000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+559,UBEREATS,2019-03,MI,13809.56,285826.79000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+560,AMAZON FRESH,2019-02,TX,14236.679999999997,738631.1,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+561,INSTACART,2019-01,NC,14130.910000000002,1158781.2199999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+562,GRUBHUB.COM,2019-01,MT,979.88,32610.51000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+563,UBEREATS,2019-02,IL,57728.11999999999,1016341.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+564,GRUBHUB.COM,2019-03,ND,409.43,13601.59,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+565,UBEREATS,2019-03,MA,35068.58999999999,688819.4199999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+566,UBEREATS,2019-03,MN,18565.7,375173.2,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+567,UBEREATS,2019-01,OH,18025.150000000005,347699.48,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+568,GRUBHUB.COM,2019-01,NM,5862.21,198050.17,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+569,UBEREATS,2019-02,CT,59669.850000000006,1165844.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+570,DOORDASH,2019-01,UT,25350.470000000005,747980.53,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+571,GRUBHUB.COM,2019-03,OR,21054.67,670212.7400000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+572,DOORDASH,2019-01,KY,4976.220000000001,158713.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+573,INSTACART,2019-03,MA,5924.549999999999,498868.1699999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+574,UBEREATS,2019-03,IA,9185.25,187505.27,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+575,AMAZON FRESH,2019-02,ME,387.35,26764.390000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+576,UBEREATS,2019-02,TN,61742.84,1122097.99,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+577,UBEREATS,2019-03,MO,9258.65,196624.36,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+578,GRUBHUB.COM,2019-01,MS,1566.5299999999995,50390.730000000025,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+579,AMAZON FRESH,2019-02,NV,1012.23,52569.58,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+580,DOORDASH,2019-01,VT,646.92,23350.28,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+581,GRUBHUB.COM,2019-03,CT,19736.84,610700.64,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+582,AMAZON FRESH,2019-02,ID,483.82,22553.05,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+583,INSTACART,2019-02,VT,637.1700000000002,56183.98,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+584,GRUBHUB.COM,2019-03,SD,446.7799999999999,14263.49,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+585,AMAZON FRESH,2019-01,NV,1048.09,54922.81,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+586,GRUBHUB.COM,2019-01,MI,6301.65,205429.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+587,GRUBHUB.COM,2019-01,SD,334.28000000000003,10330.19,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+588,GRUBHUB.COM,2019-02,DE,3678.32,104897.16000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+589,INSTACART,2019-01,AL,4638.070000000001,422489.2,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+590,AMAZON FRESH,2019-01,CT,744.37,41255.94,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+591,AMAZON FRESH,2019-01,MN,2816.7300000000005,154221.24999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+592,GRUBHUB.COM,2019-03,DE,4107.889999999999,118944.29,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+593,INSTACART,2019-02,MN,14495.889999999998,1252265.05,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+594,GRUBHUB.COM,2019-02,CT,17785.34,555170.43,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+595,INSTACART,2019-03,RI,309.2000000000001,30370.700000000008,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+596,GRUBHUB.COM,2019-03,DC,6632.19,216230.34000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+597,INSTACART,2019-03,OR,6893.619999999999,550156.6100000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+598,UBEREATS,2019-02,ME,2595.84,50329.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+599,UBEREATS,2019-03,UT,14666.319999999998,295160.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+600,DOORDASH,2019-02,KY,6489.62,189703.73,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+601,AMAZON FRESH,2019-03,DE,345.70000000000005,25148.35,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+602,DOORDASH,2019-01,DC,7865.229999999998,241052.73000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+603,UBEREATS,2019-02,WI,25294.870000000003,447213.26000000007,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+604,UBEREATS,2019-02,OH,19477.83,366765.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+605,DOORDASH,2019-03,DE,6962.77,213831.99,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+606,AMAZON FRESH,2019-01,MD,4225.87,206009.94,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+607,GRUBHUB.COM,2019-01,OR,18581.72,599709.4300000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+608,AMAZON FRESH,2019-03,ME,213.85,14814.669999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+609,DOORDASH,2019-03,ND,1505.98,44177.00000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+610,UBEREATS,2019-01,KY,6958.099999999999,132459.72000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+611,DOORDASH,2019-01,IA,8282.75,251317.80000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+612,DOORDASH,2019-01,MS,3719.370000000001,110452.46,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+613,AMAZON FRESH,2019-03,RI,106.66,4730.01,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+614,AMAZON FRESH,2019-01,HI,447.0099999999999,20559.43,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+615,AMAZON FRESH,2019-01,DE,339.38,24225.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+616,DOORDASH,2019-01,SD,966.61,32436.35,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+617,DOORDASH,2019-02,ND,1088.82,34470.33,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+618,AMAZON FRESH,2019-02,OH,1253.11,71336.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+619,UBEREATS,2019-03,NH,2913.9300000000003,59718.95999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+620,DOORDASH,2019-02,AZ,47753.59,1505557.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+621,DOORDASH,2019-01,OH,16511.27,502151.5399999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+622,INSTACART,2019-03,NJ,9441.86,896240.0000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+623,INSTACART,2019-02,NM,1219.28,89844.53,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+624,UBEREATS,2019-01,GA,152194.3,2884516.56,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+625,UBEREATS,2019-02,DE,4107.800000000001,78049.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+626,DOORDASH,2019-01,TN,27016.020000000004,828574.1200000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+627,UBEREATS,2019-02,AK,1737.2299999999998,32295.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+628,UBEREATS,2019-03,AK,1691.22,34190.95999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+629,AMAZON FRESH,2019-03,HI,440.3,16442.52,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+630,DOORDASH,2019-01,NJ,47032.88999999999,1438633.44,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+631,INSTACART,2019-01,NH,738.52,67766.57,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+632,INSTACART,2019-02,OR,5803.4800000000005,506624.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+633,UBEREATS,2019-03,ME,2885.8,61068.35000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+634,UBEREATS,2019-03,MS,6604.489999999998,141596.79000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+635,GRUBHUB.COM,2019-03,RI,2384.67,72029.11000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+636,AMAZON FRESH,2019-02,AL,533.0000000000001,29150.23,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+637,AMAZON FRESH,2019-02,WA,13313.999999999998,659290.9800000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+638,UBEREATS,2019-02,MO,10394.930000000002,201770.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+639,UBEREATS,2019-01,NE,11369.030000000002,199298.51,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+640,GRUBHUB.COM,2019-02,VT,1009.73,32930.02,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+641,GRUBHUB.COM,2019-02,WA,18379.65,619488.6200000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+642,INSTACART,2019-03,CA,94454.11,7962705.64,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+643,UBEREATS,2019-02,VT,1589.0199999999998,37723.51,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+644,AMAZON FRESH,2019-01,UT,519.47,25345.7,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+645,UBEREATS,2019-01,ME,2402.38,49075.25000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+646,UBEREATS,2019-01,DE,3935.59,76883.31000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+647,DOORDASH,2019-01,NY,45570.62999999999,1398974.35,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+648,GRUBHUB.COM,2019-01,KY,2029.69,61377.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+649,DOORDASH,2019-03,NH,6111.58,192995.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+650,GRUBHUB.COM,2019-03,AL,4062.009999999999,113462.70000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+651,UBEREATS,2019-03,PA,104200.62,2240271.52,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+652,UBEREATS,2019-01,NY,148636.3,3039794.26,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+653,GRUBHUB.COM,2019-02,NC,22216.17,686479.76,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+654,UBEREATS,2019-01,TN,57779.880000000005,1096956.12,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+655,UBEREATS,2019-03,NY,162451.97999999998,3417570.8200000008,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+656,INSTACART,2019-02,RI,398.55000000000007,28205.790000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+657,DOORDASH,2019-03,NE,19157.9,568175.12,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+658,INSTACART,2019-02,IA,1618.9,121336.11,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+659,UBEREATS,2019-03,MT,10550.53,212663.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+660,DOORDASH,2019-03,DC,11216.790000000005,352077.4199999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+661,INSTACART,2019-01,MI,2456.94,181761.99,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+662,GRUBHUB.COM,2019-02,MN,6848.619999999999,202190.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+663,UBEREATS,2019-01,NH,2830.64,54984.02,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+664,AMAZON FRESH,2019-03,AZ,1815.45,117940.18000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+665,GRUBHUB.COM,2019-03,MD,34200.51,1050319.5500000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+666,DOORDASH,2019-03,GA,66823.03,1915782.63,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+667,AMAZON FRESH,2019-03,OR,2242.7,133059.47,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+668,UBEREATS,2019-01,ND,1839.7,34972.69000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+669,INSTACART,2019-02,VA,12495.13,1124201.9200000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+670,AMAZON FRESH,2019-02,MT,184.15,9168.84,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+671,AMAZON FRESH,2019-02,AZ,1671.6899999999996,91906.25,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+672,INSTACART,2019-01,GA,22637.77,1880908.44,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+673,UBEREATS,2019-03,TX,293989.37,5811949.300000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+674,INSTACART,2019-02,TN,10006.059999999998,917819.1999999996,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+675,UBEREATS,2019-03,WA,122590.77,2698710.3599999994,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+676,GRUBHUB.COM,2019-03,KS,3948.72,120435.39999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+677,GRUBHUB.COM,2019-01,MN,6794.419999999998,212068.89000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+678,INSTACART,2019-01,IL,8725.54,737675.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+679,UBEREATS,2019-02,MA,33273.61000000001,621289.7999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+680,UBEREATS,2019-02,NJ,103544.01,2048427.83,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+681,AMAZON FRESH,2019-01,VA,4890.639999999999,265346.08,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+682,INSTACART,2019-01,OH,4233.349999999999,339765.25999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+683,INSTACART,2019-03,AL,5012.630000000001,476339.97,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+684,UBEREATS,2019-03,KY,6729.4400000000005,141299.84999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+685,AMAZON FRESH,2019-01,NC,2607.02,144490.86000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+686,AMAZON FRESH,2019-01,SD,42.71000000000001,1716.04,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+687,DOORDASH,2019-03,IA,13753.52,418559.8100000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+688,AMAZON FRESH,2019-01,NY,14581.100000000004,680603.5200000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+689,INSTACART,2019-03,IL,10428.700000000004,879647.0000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+690,AMAZON FRESH,2019-03,WI,1555.23,71552.95,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+691,GRUBHUB.COM,2019-02,NM,6071.740000000002,196834.74,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+692,INSTACART,2019-02,ID,1444.45,129562.80999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+693,GRUBHUB.COM,2019-02,NJ,44846.22000000001,1334706.79,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+694,DOORDASH,2019-01,MT,1934.87,66859.45999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+695,AMAZON FRESH,2019-01,MA,3472.51,203781.03,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+696,DOORDASH,2019-02,CA,492859.76000000007,16536937.18,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+697,AMAZON FRESH,2019-03,LA,438.65,18908.48,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+698,INSTACART,2019-02,AR,935.79,69200.95999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+699,DOORDASH,2019-02,NJ,51000.48,1560962.2500000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+700,DOORDASH,2019-01,OK,20671.15,663903.3900000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+701,UBEREATS,2019-02,GA,157349.08000000002,2888176.2,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+702,INSTACART,2019-03,MS,1323.93,104926.74,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+703,DOORDASH,2019-01,NM,5241.100000000001,165455.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+704,UBEREATS,2019-02,KY,7797.950000000002,144721.65000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+705,AMAZON FRESH,2019-03,MA,4135.62,223978.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+706,DOORDASH,2019-02,MD,48658.170000000006,1469144.91,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+707,INSTACART,2019-01,DC,3536.44,261419.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+708,GRUBHUB.COM,2019-03,HI,2078.5,67460.32999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+709,AMAZON FRESH,2019-03,NJ,5095.729999999999,252509.90999999992,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+710,DOORDASH,2019-02,MA,15647.809999999998,504802.8899999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+711,DOORDASH,2019-02,TX,193117.29,5957518.94,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+712,AMAZON FRESH,2019-02,CO,5296.759999999999,295317.19,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+713,GRUBHUB.COM,2019-03,ME,1579.45,52254.42,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+714,UBEREATS,2019-02,MT,11700.410000000002,204795.07,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+715,INSTACART,2019-03,WI,4610.849999999999,399719.67,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+716,UBEREATS,2019-01,CO,46225.75,851607.8600000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+717,AMAZON FRESH,2019-02,RI,83.05999999999999,3634.45,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+718,AMAZON FRESH,2019-03,AL,582.7099999999999,35195.51,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+719,AMAZON FRESH,2019-01,TN,2307.380000000001,125570.27,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+720,AMAZON FRESH,2019-01,WY,120.13,8298.16,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+721,DOORDASH,2019-01,LA,3727.2800000000007,111344.67999999996,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+722,DOORDASH,2019-01,WI,15688.75,501019.47,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+723,DOORDASH,2019-03,WY,1989.41,66235.78000000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+724,GRUBHUB.COM,2019-02,KY,2273.4200000000005,69040.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+725,UBEREATS,2019-01,SD,1211.58,24590.119999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+726,INSTACART,2019-02,NJ,7685.329999999999,734546.6300000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+727,AMAZON FRESH,2019-03,VT,310.06999999999994,22019.72,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+728,INSTACART,2019-01,IA,1566.3599999999997,130970.08999999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+729,GRUBHUB.COM,2019-03,AK,779.6900000000003,26340.910000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+730,INSTACART,2019-01,NE,1458.83,102409.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+731,DOORDASH,2019-01,FL,68894.32,2009126.59,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+732,GRUBHUB.COM,2019-02,IN,4289.35,131437.59000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+733,UBEREATS,2019-01,AR,3618.24,69287.86,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+734,GRUBHUB.COM,2019-02,GA,15941.959999999995,472918.68000000005,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+735,INSTACART,2019-03,FL,47573.61000000001,4116176.670000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+736,AMAZON FRESH,2019-01,FL,5517.31,303639.25999999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+737,GRUBHUB.COM,2019-03,NE,4670.459999999999,141597.90999999997,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+738,DOORDASH,2019-01,IL,28080.500000000004,880101.3200000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+739,UBEREATS,2019-01,MN,20983.210000000003,386571.61000000016,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+740,DOORDASH,2019-03,WI,22946.229999999992,720072.3700000001,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+741,UBEREATS,2019-01,AL,10718.659999999998,205513.71,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+742,UBEREATS,2019-02,NE,11544.400000000003,188512.37,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+743,UBEREATS,2019-01,MS,6193.909999999999,120919.79999999996,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+744,INSTACART,2019-03,IN,3016.890000000001,253278.98000000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+745,AMAZON FRESH,2019-02,PA,6729.3200000000015,320815.32,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+746,UBEREATS,2019-03,VT,1401.3099999999995,31361.58,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+747,UBEREATS,2019-03,IL,57138.280000000006,1121006.4799999995,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+748,AMAZON FRESH,2019-03,MO,553.3299999999999,31165.28,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+749,DOORDASH,2019-01,AZ,44211.11,1396178.74,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+750,UBEREATS,2019-01,ID,11384.550000000005,216818.82,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+751,UBEREATS,2019-02,MD,77356.26000000002,1490709.34,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+752,DOORDASH,2019-02,NH,4566.330000000001,142158.18000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+753,UBEREATS,2019-01,MI,13294.490000000002,270322.88000000006,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+754,DOORDASH,2019-03,MA,19328.39,630578.2,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+755,GRUBHUB.COM,2019-02,NE,4442.34,136547.66000000003,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+756,GRUBHUB.COM,2019-03,IL,36307.09,1167152.7000000002,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+757,INSTACART,2019-02,NH,553.85,48640.34999999999,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+758,GRUBHUB.COM,2019-02,CA,116817.79,4122227.38,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+759,INSTACART,2019-02,WY,270.9,21701.93,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+760,DOORDASH,2019-02,WA,53820.43999999999,1783532.5199999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+761,INSTACART,2019-03,VA,14781.71,1326413.9200000004,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+762,DOORDASH,2019-02,NE,14073.799999999996,417372.21,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+763,AMAZON FRESH,2019-03,MN,2750.8900000000003,161624.77,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services
+764,GRUBHUB.COM,2019-02,TX,45494.390000000014,1355630.5299999998,Third- Party Delivery Services,Restaurant/Grocery/Other Delivery Services

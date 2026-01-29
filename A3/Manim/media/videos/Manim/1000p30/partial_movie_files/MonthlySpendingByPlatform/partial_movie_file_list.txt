@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/760207800_2176377801_223132457.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_844077761_4014252958.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_1421011277_1684703560.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_2219672299_3005126026.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_1539819249_2391343167.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_68381853_2297104623.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_1799288737_987366684.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_825067470_247093237.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_2086892464_4045892956.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_2208336583_1835813579.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_2022531628_2023860264.mp4'
+file 'file:U:/repos/marketing/A3/Manim/media/videos/Manim/1000p30/partial_movie_files/MonthlySpendingByPlatform/323485350_2872842549_3540174580.mp4'
